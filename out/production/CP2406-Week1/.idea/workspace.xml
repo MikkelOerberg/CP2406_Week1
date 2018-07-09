@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="93786dab-703e-4e0b-a1fc-22ec982b262a" name="Default" comment="Week1 practical for programming 3" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="BurmaShave.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Task5/src/ProgrammingExercises/BurmaShave.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/cp2406_farrell8_ch01/CodeInFigures/ErrorTest.java" />
+        <option value="$PROJECT_DIR$/cp2406_farrell8_ch01/CodeInFigures/First.java" />
+        <option value="$PROJECT_DIR$/cp2406_farrell8_ch01/CodeInFigures/FirstBadOutput.java" />
+        <option value="$PROJECT_DIR$/cp2406_farrell8_ch01/CodeInFigures/FirstDialog.java" />
+        <option value="$PROJECT_DIR$/cp2406_farrell8_ch01/CodeInFigures/FirstWithMissingSemicolon.java" />
+        <option value="$PROJECT_DIR$/cp2406_farrell8_ch01/CodeInFigures/HelloErrors.java" />
+        <option value="$PROJECT_DIR$/cp2406_farrell8_ch01/DebuggingExercises/FixDebugOne1.java" />
+        <option value="$PROJECT_DIR$/cp2406_farrell8_ch01/DebuggingExercises/FixDebugOne2.java" />
+        <option value="$PROJECT_DIR$/cp2406_farrell8_ch01/DebuggingExercises/FixDebugOne3.java" />
+        <option value="$PROJECT_DIR$/cp2406_farrell8_ch01/DebuggingExercises/FixDebugOne4.java" />
+        <option value="$PROJECT_DIR$/HelloWorld/src/com/example/helloworld/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/Task5/src/ProgrammingExercises/BurmaShave.java" />
+        <option value="$PROJECT_DIR$/Task5/src/ProgrammingExercises/Comments.java" />
+        <option value="$PROJECT_DIR$/Task5/src/ProgrammingExercises/CommentsDialog.java" />
+        <option value="$PROJECT_DIR$/Task5/src/ProgrammingExercises/FavoriteSong.java" />
+        <option value="$PROJECT_DIR$/Task5/src/ProgrammingExercises/MovieQuote.java" />
+        <option value="$PROJECT_DIR$/Task5/src/ProgrammingExercises/MovieQuoteInfo.java" />
+        <option value="$PROJECT_DIR$/Task5/src/ProgrammingExercises/TablesAndChairs.java" />
+        <option value="$PROJECT_DIR$/cp2406_farrell8_ch01/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="84" />
+    <option name="y" value="16" />
+    <option name="width" value="1400" />
+    <option name="height" value="776" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CP2406 Week1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CP2406 Week1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CP2406 Week1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CP2406 Week1" type="462c0819:PsiDirectoryNode" />
+              <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CP2406 Week1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CP2406 Week1" type="462c0819:PsiDirectoryNode" />
+              <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
+              <item name="helloworld" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CP2406 Week1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CP2406 Week1" type="462c0819:PsiDirectoryNode" />
+              <item name="Task5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CP2406 Week1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CP2406 Week1" type="462c0819:PsiDirectoryNode" />
+              <item name="Task5" type="462c0819:PsiDirectoryNode" />
+              <item name="ProgrammingExercises" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Tables and chairs">
+    <configuration name="Burma Shave" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Task5.src.ProgrammingExercises.BurmaShave" />
+      <module name="CP2406-Week1" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Comments Dialog" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Task5.src.ProgrammingExercises.CommentsDialog" />
+      <module name="CP2406-Week1" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Comments" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Task5.src.ProgrammingExercises.Comments" />
+      <module name="CP2406-Week1" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Error test" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="cp2406_farrell8_ch01.CodeInFigures.ErrorTest" />
+      <module name="CP2406-Week1" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Favorite song" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Task5.src.ProgrammingExercises.FavoriteSong" />
+      <module name="CP2406-Week1" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="First Dialog" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="cp2406_farrell8_ch01.CodeInFigures.FirstDialog" />
+      <module name="CP2406-Week1" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="First with missing semicolon" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="cp2406_farrell8_ch01.CodeInFigures.FirstWithMissingSemicolon" />
+      <module name="CP2406-Week1" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Hello Errors" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="cp2406_farrell8_ch01.CodeInFigures.HelloErrors" />
+      <module name="CP2406-Week1" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Movie Quote" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Task5.src.ProgrammingExercises.MovieQuote" />
+      <module name="CP2406-Week1" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Movie quote info" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Task5.src.ProgrammingExercises.MovieQuoteInfo" />
+      <module name="CP2406-Week1" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Tables and chairs" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Task5.src.ProgrammingExercises.TablesAndChairs" />
+      <module name="CP2406-Week1" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="debug1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="cp2406_farrell8_ch01.DebuggingExercises.FixDebugOne1" />
+      <module name="CP2406-Week1" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="debug2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="cp2406_farrell8_ch01.DebuggingExercises.FixDebugOne2" />
+      <module name="CP2406-Week1" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="debug3" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="cp2406_farrell8_ch01.DebuggingExercises.FixDebugOne3" />
+      <module name="CP2406-Week1" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="debug4" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="cp2406_farrell8_ch01.DebuggingExercises.FixDebugOne4" />
+      <module name="CP2406-Week1" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="first bad output" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="cp2406_farrell8_ch01.CodeInFigures.FirstBadOutput" />
+      <module name="CP2406-Week1" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="first" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="cp2406_farrell8_ch01.CodeInFigures.First" />
+      <module name="CP2406-Week1" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="hello world" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="HelloWorld.src.com.example.helloworld.HelloWorld" />
+      <module name="CP2406-Week1" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Tables and chairs" />
+      <item itemvalue="Application.hello world" />
+      <item itemvalue="Application.debug1" />
+      <item itemvalue="Application.debug2" />
+      <item itemvalue="Application.debug3" />
+      <item itemvalue="Application.debug4" />
+      <item itemvalue="Application.Error test" />
+      <item itemvalue="Application.first" />
+      <item itemvalue="Application.first bad output" />
+      <item itemvalue="Application.First Dialog" />
+      <item itemvalue="Application.First with missing semicolon" />
+      <item itemvalue="Application.Hello Errors" />
+      <item itemvalue="Application.Burma Shave" />
+      <item itemvalue="Application.Comments" />
+      <item itemvalue="Application.Comments Dialog" />
+      <item itemvalue="Application.Favorite song" />
+      <item itemvalue="Application.Movie Quote" />
+      <item itemvalue="Application.Movie quote info" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93786dab-703e-4e0b-a1fc-22ec982b262a" name="Default" comment="" />
+      <created>1531119996867</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1531119996867</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Week1 practical for programming 3">
+      <created>1531122553859</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1531122553859</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Week1 practical for programming 3">
+      <created>1531122706574</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1531122706574</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Week1 practical for programming 3">
+      <created>1531123848361</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1531123848361</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32843137" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32843137" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2685325" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32843137" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Week1 practical for programming 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Week1 practical for programming 3" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Task5/src/ProgrammingExercises/BurmaShave.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloWorld/src/com/example/helloworld/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cp2406_farrell8_ch01/CodeInFigures/ErrorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cp2406_farrell8_ch01/CodeInFigures/FirstBadOutput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cp2406_farrell8_ch01/CodeInFigures/First.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cp2406_farrell8_ch01/CodeInFigures/FirstDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cp2406_farrell8_ch01/CodeInFigures/FirstWithMissingSemicolon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cp2406_farrell8_ch01/CodeInFigures/HelloErrors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cp2406_farrell8_ch01/DebuggingExercises/FixDebugOne1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cp2406_farrell8_ch01/DebuggingExercises/FixDebugOne2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cp2406_farrell8_ch01/DebuggingExercises/FixDebugOne4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cp2406_farrell8_ch01/DebuggingExercises/FixDebugOne3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloWorld/src/com/example/helloworld/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task5/src/ProgrammingExercises/Comments.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task5/src/ProgrammingExercises/CommentsDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task5/src/ProgrammingExercises/FavoriteSong.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task5/src/ProgrammingExercises/MovieQuote.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task5/src/ProgrammingExercises/MovieQuoteInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task5/src/ProgrammingExercises/TablesAndChairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cp2406_farrell8_ch01/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="29" selection-start-column="29" selection-end-column="29" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task5/src/ProgrammingExercises/BurmaShave.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>CP2406-Week1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
